@@ -13,10 +13,10 @@ Essa é uma aplicação em [React Native](https://reactnative.dev/docs/getting-s
 ### Telas implementadas  
 
 #### Contact list screen    
-![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/images/contact-list.jpeg?raw=true) 
+![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/contact-list.jpeg?raw=true) 
 
 #### Contact details screen    
-![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/images/details.jpeg?raw=true)  
+![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/details.jpeg?raw=true)  
 
 
 ### Requisitos   

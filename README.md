@@ -3,7 +3,7 @@
 ## TOC  
 
 [Apresentação](#apresentação)   
-[Telas implementadas](#telas-implementadas) 
+[Telas implementadas](#telas-implementadas)     
 [Utilização](#utilização)   
 
 ### Apresentação
@@ -12,10 +12,11 @@ Essa é uma aplicação em [React Native](https://reactnative.dev/docs/getting-s
 
 ### Telas implementadas  
 
-
-Contact List             |  Contact Details
-:-------------------------:|:-------------------------:
-![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/contact-list.jpeg?raw=true)  |  ![Contact Details](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/details.jpeg?raw=true) 
+<center>
+Contact List    |Details    
+:--------------:|:----------:
+![Contact List](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/contact-list.jpeg?raw=true)  |  ![Details](https://github.com/carllosaguiar/contactList/blob/master/src/assets/images/details.jpeg?raw=true) 
+</center>
 
 
 ### Requisitos   
